@@ -94,6 +94,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [KQL Query Helper](https://chat.openai.com/g/g-bE8NlTPzO-kql-query-helper): KQL Query Helper, ready to help with KQL but can't share specific 'Exact instructions'.
 * [RFCGPT](https://chat.openai.com/g/g-r6VgWkO0H-rfcgpt): RFC expert service.
 * [WVA](https://chat.openai.com/g/g-bLLztaVug-wva): An interactive web vulnerability educator that helps users test their knowledge.
+* [OSISTent](https://chat.openai.com/g/g-Ep6YFTwsn-osistent): OSINT guide focusing on ethical practices.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
